@@ -1,0 +1,1 @@
+This is a python script I made to split out a CSV report from a vulnerability assesment tool, used for ingest into an RMM tool. I had to strip the strip the remainder of the CSV file, so this file outputs a CSV with the hostname, IP, CVE-ID and OS formatted nicely.
